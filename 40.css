@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+#card {
+	background-color: #DB9FFF;
+}
+#card {
+	margin: auto;
+	padding: 10px;
+	height: 460px;
+	width: 300px;
+}
+#pic {
+	background-color: #0015FF;
+	margin: auto;
+	height: 200px;
+	width: 200px;
+}
+#word {
+	margin: auto;
+	width: 60%;
+}
